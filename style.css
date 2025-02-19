@@ -1,0 +1,23 @@
+.footer .hero{
+    display: flex;
+    background-color: #1f2937;
+}
+
+.hero{
+    flex-direction: column;
+    font-display: roboto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.links{
+    
+}
+
+.header_logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
